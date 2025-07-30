@@ -2,6 +2,8 @@
 
 A fully responsive, modern business website built with React, Tailwind CSS, and featuring a comprehensive set of components and features.
 
+Hosting url link - https://ebussinessapp.netlify.app/
+
 ## 📋 Table of Contents
 
 - [Features](#-features)
